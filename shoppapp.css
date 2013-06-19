@@ -1,0 +1,48 @@
+html,body,h1,div,footer {
+margin: 0;
+padding: 0;
+border: 0;
+}
+
+h1 {
+text-align: center;
+margin: 40px auto;
+}
+
+#outsideBox {
+width: 800px;
+margin: auto;
+border: 2px solid black;
+padding: 15px;
+}
+
+#functionButtons {
+width: 400px;
+margin: 20px 0 20px 400px;
+background: #E9E9E9;
+}
+
+button {
+margin-right: 50px;
+}
+
+.appItem {
+width: 600px;
+background: blue;
+margin: 10px auto;
+padding: 10px;
+}
+
+.priority{
+float: right;
+}
+select {
+margin-left: 10px;
+}
+
+footer {
+width: 800px;
+margin: auto;
+text-align: right;
+}
+
