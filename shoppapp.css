@@ -46,3 +46,7 @@ margin: auto;
 text-align: right;
 }
 
+.hideMe{
+display: none;
+}
+
